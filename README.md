@@ -57,7 +57,7 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 ━━━━━━━━━━━━━━━━━━━━
 
 
-[![Contributors](https://contrib.rocks/image?repo=TEAMRIYAMUSIC/SONALI_MUSIC)](https://github.com/TEAMRIYAMUSIC/SONALI_MUSIC/graphs/contributors)
+
 
 ### Contact :
 <a href="https://t.me/ll_hunter_lll"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
