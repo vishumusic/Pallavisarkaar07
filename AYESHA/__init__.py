@@ -1,8 +1,8 @@
-from SONALI.core.bot import Sona
-from SONALI.core.dir import dirr
-from SONALI.core.git import git
-from SONALI.core.userbot import Userbot
-from SONALI.misc import dbb, heroku
+from AYESHA.core.bot import Sona
+from AYESHA.core.dir import dirr
+from AYESHA.core.git import git
+from AYESHA.core.userbot import Userbot
+from AYESHA.misc import dbb, heroku
 
 from .logging import LOGGER
 
