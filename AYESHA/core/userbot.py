@@ -52,7 +52,7 @@ class Userbot(Client):
             await self.one.start()
             try:
                 await self.one.join_chat("t")
-                await self.one.join_chat("ksd_bot_network")
+                await self.one.join_chat("KSDHEROKUSUPPORT")
             except:
                 pass
             assistants.append(1)
@@ -72,8 +72,8 @@ class Userbot(Client):
         if config.STRING2:
             await self.two.start()
             try:
-                await self.two.join_chat("KSDHEROKUCC")
-                await self.one.join_chat("ksd_bot_network")
+                await self.two.join_chat("Team_riya_support")
+                await self.one.join_chat("KSDHEROKUSUPPORT")
             except:
                 pass
             assistants.append(2)
@@ -93,8 +93,8 @@ class Userbot(Client):
         if config.STRING3:
             await self.three.start()
             try:
-                await self.three.join_chat("KSDHEROKUCC")
-                await self.one.join_chat("ksd_bot_network")
+                await self.three.join_chat("Team_riya_support")
+                await self.one.join_chat("KSDHEROKUSUPPORT")
             except:
                 pass
             assistants.append(3)
@@ -114,8 +114,8 @@ class Userbot(Client):
         if config.STRING4:
             await self.four.start()
             try:
-                await self.four.join_chat("KSDHEROKUCC")
-                await self.one.join_chat("ksd_bot_network")
+                await self.four.join_chat("Team_riya_support")
+                await self.one.join_chat("KSDHEROKUSUPPORT")
             except:
                 pass
             assistants.append(4)
@@ -135,8 +135,8 @@ class Userbot(Client):
         if config.STRING5:
             await self.five.start()
             try:
-                await self.five.join_chat("KSDHEROKUCC")
-                await self.one.join_chat("ksd_bot_network")
+                await self.five.join_chat("Team_riya_support")
+                await self.one.join_chat("KSDHEROKUSUPPORT")
             except:
                 pass
             assistants.append(5)
