@@ -16,7 +16,7 @@ from os import environ
 import requests
 import random
 from AYESHA import app, userbot
-from AYESHA.sudo import SUDOERS
+from AYESHA.misc import SUDOERS
 from pyrogram import *
 from pyrogram.types import *
 from AYESHA.utils.hunter_ban import admin_filter
@@ -35,7 +35,7 @@ from pyrogram.types import *
 from logging import getLogger
 from AYESHA.utils.hunter_ban import admin_filter
 import os
-from AYESHA.sudo import SUDOERS
+from AYESHA.misc import SUDOERS
 from PIL import ImageDraw, Image, ImageFont, ImageChops
 from pyrogram import *
 from pyrogram.types import *
