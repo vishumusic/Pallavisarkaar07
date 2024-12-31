@@ -64,8 +64,8 @@ def stream_markup_timer(_, chat_id, played, dur):
          InlineKeyboardButton(text=_["S_B_3"], url=f"https://t.me/{app.username}?startgroup=true",)
         ],
         [
-            InlineKeyboardButton(text="✭ ᴜᴘᴅᴀᴛᴇ ❥", url="https://t.me/KSD_BOT_NETWORK",),
-            InlineKeyboardButton(text="✭ sᴜᴘᴘᴏʀᴛ ❥", url="https://t.me/TEAM_RIYA_SUPPORT",),
+            InlineKeyboardButton(text="✭ ᴜᴘᴅᴀᴛᴇ ❥", url="https://t.me/RIYA_NETWORK",),
+            InlineKeyboardButton(text="✭ sᴜᴘᴘᴏʀᴛ ❥", url="https://t.me/riya_CHAT_support",),
         ],
         [
             InlineKeyboardButton(text="▷", callback_data=f"ADMIN Resume|{chat_id}"),
@@ -78,22 +78,21 @@ def stream_markup_timer(_, chat_id, played, dur):
     ]
     return buttons
 
-def stream_markup(_, chat_id):
+ def stream_markup(_, chat_id):
     buttons = [
-        [
-         InlineKeyboardButton(text=_["S_B_3"], url=f"https://t.me/{app.username}?startgroup=true",)
-        ],
-        [
-            InlineKeyboardButton(text="✭ ᴜᴘᴅᴀᴛᴇ ❥", url="https://t.me/KSD_BOT_NETWORK",),
-            InlineKeyboardButton(text="✭ sᴜᴘᴘᴏʀᴛ ❥", url="https://t.me/TEAM_RIYA_SUPPORT",),
-        ],
         [
             InlineKeyboardButton(text="▷", callback_data=f"ADMIN Resume|{chat_id}"),
             InlineKeyboardButton(text="II", callback_data=f"ADMIN Pause|{chat_id}"),
             InlineKeyboardButton(text="‣‣I", callback_data=f"ADMIN Skip|{chat_id}"),
             InlineKeyboardButton(text="▢", callback_data=f"ADMIN Stop|{chat_id}"),
+        ], 
+        [ 
+         InlineKeyboardButton(text=_["S_B_3"], url=f"https://t.me/{app.username}?startgroup=true",)
         ],
-
+        [
+            InlineKeyboardButton(text="✭ ᴜᴘᴅᴀᴛᴇ ❥", url="https://t.me/RIYA_NETWORK",),
+            InlineKeyboardButton(text="✭ sᴜᴘᴘᴏʀᴛ ❥", url="https://t.me/riya_chat_support",),
+        ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
     ]
     return buttons
