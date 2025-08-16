@@ -10,7 +10,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=FF0085&width=620&lines=🍁+🚩+ᴘᴏᴡᴇʀᴇᴅ+ʙʏ+ᴧᴧʀᴜᴍɪ+ʙᴏᴛs+🚩+🍁"></b></h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h1 align="center"><b>ᴛᴇᴧᴍ ᴧᴧʀᴜᴍɪ ʙᴏᴛs</b></h1>
-<p align="center"><a href="https://t.me/ll_hunter_lll"><img src="https://files.catbox.moe/yvwrge.jpg" width="400"></a></p>
+<p align="center"><a href="https://t.me/Swagger_Soul"><img src="https://files.catbox.moe/783eei.jpg" width="400"></a></p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </p>
