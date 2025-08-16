@@ -41,13 +41,13 @@ async def get_link_group(client, message):
 
         async def progress(current, total):
             try:
-                sawait text.edit_text(f"📥 ᴅᴏᴡɴʟᴏᴧᴅɪɴɢ... {current * 100 / total:.1f}%")
+                sawait text.edit_text(f"📥 ᴅᴏᴡɴʟᴏᴀᴅɪɴɢ... {current * 100 / total:.1f}%")
             except Exception:
                 pass
 
         try:
             local_path = await media.download(progress=progress)
-            await text.edit_text("📤 ᴜᴘʟᴏᴧᴅɪɴɢ ᴛᴏ ᴛᴇʟᴇɢʀᴧᴘʜ...")
+            await text.edit_text("📤 ᴜᴘʟᴏᴀᴅɪɴɢ ᴛᴏ ᴛᴇʟᴇɢʀᴀᴘʜ...")
 
             success, upload_path = upload_file(local_path)
 
@@ -58,7 +58,7 @@ async def get_link_group(client, message):
                         [
                             [
                                 InlineKeyboardButton(
-                                    "𝖢ʀᴇᴀᴛᴇ ʙʏ 𝖳ᴇᴀᴍ  ʀɪʏᴀ 𝖳ᴀᴘ ᴛᴏ 𝖲ᴇᴇ",
+                                    "ᴄʀᴇᴀᴛᴇ ʙʏ ᴛᴇᴀᴍ  ᴀᴀʀᴜᴍɪ ᴛᴀᴘ ᴛᴏ sᴇᴇ",
                                     url=upload_path,
                                 )
                             ]
