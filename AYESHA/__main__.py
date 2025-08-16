@@ -50,12 +50,12 @@ async def init():
         pass
     await Sona.decorators()
     LOGGER("AYESHA").info(
-        "DROP YOUR GIRLFRIEND'S NUMBER AND SEXY PIC TO @ll_ALPHA_BABY_lll , @PURVI_SUPPORT FOR ANY ISSUES MADE BY AYESHA"
+        "DROP YOUR GIRLFRIEND'S NUMBER AND SEXY PIC TO @Swagger_Soul , @AarumiChat FOR ANY ISSUES MADE BY AARUMI"
     )
     await idle()
     await app.stop()
     await userbot.stop()
-    LOGGER("AYESHA").info("Stopping DEEP Music Bot...")
+    LOGGER("AARUMI").info("Stopping DEEP Music Bot...")
 
 
 if __name__ == "__main__":
