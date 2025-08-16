@@ -23,7 +23,7 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/teamayushi/Ayesha-Music"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-green?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/EgoBots/Ayesha_music"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-green?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
 <h3 align="center">
@@ -31,7 +31,7 @@
 </h3>
 
 - Get your [Necessary Variables](https://github.com/teamayushi/Ayesha-Music/blob/main/sample.env)
-- Upgrade and Update by :
+  Upgrade and Update by :
 `sudo apt-get update && sudo apt-get upgrade -y`
 - Install Ffmpeg & Python by :
 `sudo apt-get install python3-pip ffmpeg -y`
