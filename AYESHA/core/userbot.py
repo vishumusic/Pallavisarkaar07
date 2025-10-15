@@ -72,8 +72,8 @@ class Userbot(Client):
         if config.STRING2:
             await self.two.start()
             try:
-                await self.two.join_chat("Team_riya_support")
-                await self.one.join_chat("KSDHEROKUSUPPORT")
+                await self.two.join_chat("pallavisarkaar")
+                await self.one.join_chat("shayrirahulki")
             except:
                 pass
             assistants.append(2)
@@ -114,8 +114,8 @@ class Userbot(Client):
         if config.STRING4:
             await self.four.start()
             try:
-                await self.four.join_chat("Team_riya_support")
-                await self.one.join_chat("KSDHEROKUSUPPORT")
+                await self.four.join_chat("pallavisarkaar")
+                await self.one.join_chat("shayrirahulki")
             except:
                 pass
             assistants.append(4)
@@ -135,8 +135,8 @@ class Userbot(Client):
         if config.STRING5:
             await self.five.start()
             try:
-                await self.five.join_chat("Team_riya_support")
-                await self.one.join_chat("KSDHEROKUSUPPORT")
+                await self.five.join_chat("pallavisarkaar")
+                await self.one.join_chat("shayrirahulki")
             except:
                 pass
             assistants.append(5)
